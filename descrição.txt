@@ -1,0 +1,5 @@
+ API multiplataforma com ASP.NET Core 2.2/ utilizando C# como linguagem de Programação,  arquitetura DDD para modelagem, o Banco de Dados será o MySQL e o ORM a ser utilizado será o Entity Framework Core, para Mapeamento entre DTO (Data Transfer Object)   e Modelos do Domínio vamos utilizar o AutoMapper.
+
+API terá o JWT (JSON Web Token) para geração dos Tokens para ser consumida com aplicação externa ou Front-End.
+
+O Swagger é uma ferramenta para documentar uma API.
