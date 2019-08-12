@@ -1,9 +1,0 @@
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\bin\Debug\netcoreapp2.2\Api.Domain.deps.json
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\bin\Debug\netcoreapp2.2\Api.Domain.dll
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\bin\Debug\netcoreapp2.2\Api.Domain.pdb
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.csprojAssemblyReference.cache
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.csproj.CoreCompileInputs.cache
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.AssemblyInfoInputs.cache
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.AssemblyInfo.cs
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.dll
-C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Domain\obj\Debug\netcoreapp2.2\Api.Domain.pdb
