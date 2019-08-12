@@ -19,6 +19,7 @@ namespace Api.Data.Mapping
             builder.HasIndex(u => u.Login).IsUnique();
             builder.Property(u => u.Login).IsRequired().HasMaxLength(100);
             builder.Property(u => u.Senha).IsRequired().HasMaxLength(100);
+            builder.Property(u => u.Status).IsRequired().HasMaxLength(1);
 
         }
     }
