@@ -20,6 +20,9 @@ namespace Api.Data.Mapping
             builder.Property(u => u.Login).IsRequired().HasMaxLength(100);
             builder.Property(u => u.Senha).IsRequired().HasMaxLength(100);
             builder.Property(u => u.Status).IsRequired().HasMaxLength(1);
+            builder.Property(u => u.DataAlteracao);
+            builder.Property(u => u.DataInclusao);
+
 
         }
     }
