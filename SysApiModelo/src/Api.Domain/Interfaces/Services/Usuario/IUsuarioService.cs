@@ -9,7 +9,7 @@ namespace Api.Domain.Interfaces.Services.Usuario
     public interface IUsuarioService
     {
         Task<UsuarioEntity> Get(Guid id);
-        Task<IEnumerator<UsuarioEntity>> GetAll();
+        Task<IEnumerable<UsuarioEntity>> GetAll();
         Task<UsuarioEntity> Post(UsuarioEntity user);
         Task<UsuarioEntity> Put(UsuarioEntity user);
         Task<bool> Delete(Guid id);

@@ -9,7 +9,7 @@ namespace Api.Data.Context
 {
     public class MyContext:DbContext
     {
-        public DbSet<UsuarioEntity> TB_USUARIO { get; set; }
+        public DbSet<UsuarioEntity> UsuarioInterno { get; set; }
 
         public MyContext (DbContextOptions<MyContext> options):base(options) {}
 

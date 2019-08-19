@@ -821,16 +821,6 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "Api.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        }
-      },
       "Api.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -3244,11 +3234,6 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Api.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
-    },
     "Api.Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Api.Data.csproj",
@@ -3262,7 +3247,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Api.CrossCutting >= 1.0.0",
       "Api.Data >= 1.0.0",
       "Api.Domain >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -3300,9 +3284,6 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
-            },
             "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.Data\\Api.Data.csproj": {
               "projectPath": "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.Data\\Api.Data.csproj"
             },

@@ -3,6 +3,14 @@ C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.runtimeconfig.dev.json
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.dll
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.CrossCutting.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Domain.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Service.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.CrossCutting.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Domain.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Service.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\bin\Debug\netcoreapp2.2\Api.Data.pdb
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csprojAssemblyReference.cache
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csproj.CoreCompileInputs.cache
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorAssemblyInfo.cache
@@ -10,5 +18,6 @@ C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.AssemblyInfoInputs.cache
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.AssemblyInfo.cs
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorTargetAssemblyInfo.cache
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csproj.CopyComplete
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.dll
 C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.pdb

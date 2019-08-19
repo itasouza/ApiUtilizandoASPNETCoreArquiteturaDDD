@@ -3,3 +3,4 @@
 API terá o JWT (JSON Web Token) para geração dos Tokens para ser consumida com aplicação externa ou Front-End.
 
 O Swagger é uma ferramenta para documentar uma API.
+AutoMapper extensions for ASP.NET Core
