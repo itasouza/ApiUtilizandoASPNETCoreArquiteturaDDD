@@ -1,0 +1,16 @@
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.CrossCutting.deps.json
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.CrossCutting.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.CrossCutting.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Domain.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Service.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Domain.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Api.Service.pdb
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.csprojAssemblyReference.cache
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.csproj.CoreCompileInputs.cache
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.AssemblyInfoInputs.cache
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.AssemblyInfo.cs
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.csproj.CopyComplete
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.dll
+C:\GitHub\ApiUtilizandoASPNETCoreArquiteturaDDD\SysApiModelo\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\Api.CrossCutting.pdb
