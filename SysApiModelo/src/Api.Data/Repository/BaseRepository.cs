@@ -104,6 +104,7 @@ namespace Api.Data.Repository
 
                 item.DataAlteracao = DateTime.UtcNow;
                 item.DataInclusao = result.DataInclusao;
+                item.Status = "A";
                 _context.Entry(result).CurrentValues.SetValues(item);
                 await _context.SaveChangesAsync();
             }

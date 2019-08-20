@@ -89,6 +89,50 @@ namespace Api.Application.Controllers
             }
         }
 
+        [HttpPut]
+        public async Task<ActionResult> Put([FromBody] UsuarioEntity user)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);//400 bad request - solicitação inválida
+            }
+
+            try
+            {
+                var result = await _service.Put(user);
+                if (result != null)
+                {
+                    return Ok (result);
+                }
+                else
+                {
+                    return BadRequest();
+                }
+            }
+            catch (ArgumentException e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
+
+        [HttpDelete]
+        [Route("{id}", Name = "GetWithId")]
+        public async Task<ActionResult> Delete(Guid id)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);//400 bad request - solicitação inválida
+            }
+
+            try
+            {
+                return Ok(await _service.Delete(id));
+            }
+            catch (ArgumentException e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
 
     }
 }
