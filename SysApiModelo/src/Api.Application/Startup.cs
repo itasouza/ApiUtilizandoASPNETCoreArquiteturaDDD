@@ -13,8 +13,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using System.Configuration;
 using Microsoft.Extensions.Configuration;
-using Swashbuckle.AspNetCore.Swagger;
 using Microsoft.AspNetCore.Rewrite;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace Api.Application
 {
@@ -35,18 +35,20 @@ namespace Api.Application
             ConfigureRepository.ConfigureDependenciesRepository(services);
 
             services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1",
-                     new Info {
-                         Title = "AspNetCore 2.2",
-                             Version = "v1",
-                             Description = "Exemplo de Api Rest Criada com o Asp.net core",
-                             Contact = new Contact {
-                                  Name = "Itamar Souza",
-                                  Url = "http://teste.com.br"
-                             }
-                     }); 
-            });
+              {
+                  c.SwaggerDoc("v1",
+                       new Info
+                       {
+                           Title = "AspNetCore 2.2",
+                           Version = "v1",
+                           Description = "Exemplo de Api Rest Criada com o Asp.net core",
+                           Contact = new Contact
+                           {
+                               Name = "Itamar Souza",
+                               Url = "http://teste.com.br"
+                           }
+                       });
+              });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -58,11 +60,11 @@ namespace Api.Application
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
+            //else
+            //{
+            //    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+            //    app.UseHsts();
+            //}
 
             //ativando o middlewares para o uso do swagger
             app.UseSwagger();

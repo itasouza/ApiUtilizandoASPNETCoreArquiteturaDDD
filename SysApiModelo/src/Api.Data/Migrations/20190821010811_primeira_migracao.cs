@@ -12,7 +12,9 @@ namespace Api.Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
-                    Status = table.Column<string>(nullable: true),
+                    DataInclusao = table.Column<DateTime>(nullable: true),
+                    DataAlteracao = table.Column<DateTime>(nullable: true),
+                    Status = table.Column<string>(maxLength: 1, nullable: false),
                     Nome = table.Column<string>(maxLength: 120, nullable: false),
                     Email = table.Column<string>(maxLength: 100, nullable: true),
                     Login = table.Column<string>(maxLength: 100, nullable: false),
@@ -27,7 +29,8 @@ namespace Api.Data.Migrations
                 name: "IX_TB_USUARIO_Email",
                 table: "TB_USUARIO",
                 column: "Email",
-                unique: true);
+                unique: true,
+                filter: "[Email] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_TB_USUARIO_Login",
