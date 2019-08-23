@@ -536,12 +536,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
+      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -687,7 +686,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ItaPC\\.nuget\\packages\\": {},
+    "C:\\Users\\isouza\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -696,14 +695,14 @@
       "projectUniqueName": "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.Domain\\Api.Domain.csproj",
       "projectName": "Api.Domain",
       "projectPath": "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.Domain\\Api.Domain.csproj",
-      "packagesPath": "C:\\Users\\ItaPC\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\isouza\\.nuget\\packages\\",
       "outputPath": "C:\\GitHub\\ApiUtilizandoASPNETCoreArquiteturaDDD\\SysApiModelo\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ItaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -713,7 +712,8 @@
       "sources": {
         "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://imperiointeligencia.pkgs.visualstudio.com/_packaging/atlas_cargo/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

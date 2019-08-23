@@ -26,7 +26,8 @@ namespace Api.CrossCutting.DependencyInjection
 
             serviceCollection.AddDbContext<MyContext>
             (
-               options => options.UseSqlServer("Server=DESKTOP-MO51FPC\\SQLEXPRESS;Database=ApiDB;User Id=sa;Password=root;")
+             //  options => options.UseSqlServer("Server=DESKTOP-MO51FPC\\SQLEXPRESS;Database=ApiDB;User Id=sa;Password=root;")
+               options => options.UseSqlServer("Server=apiddd.tasdigital.com.br,11433;Database=tasdigit_apiddd;User Id=bancoapiddd;Password=Ramati#0123;")
             );
 
         }
